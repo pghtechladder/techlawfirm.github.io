@@ -1,0 +1,70 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Oct 2023 10:04:09 at https://techlawfirm.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+techlawfirm.net
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://immigrate.tech/ -O1 "C:\My Web Sites\TechImmigrationLaw\Immigration" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,techlawfirm.net
+techlawfirm.nettechlawfirm.net
+	such as username/password authentication for websitechlawfirm.netn this projecttechlawfirm.net
+techlawfirm.nettechlawfirm.net
+	do not share these files/folders if you want thesetechlawfirm.neto remain privatetechlawfirm.net
+techlawfirm.nettechlawfirm.net
+techlawfirm.net
+techlawfirm.net
+10:04:45	Error: 	"Bad Request" (400) techlawfirm.net//www.googletagmanager.com/gtm.js?id= (from https://immigrate.tech/)
+techlawfirm.nettechlawfirm.net
+10:05:53	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/removal-and-deportation (from https://immigrate.tech/)
+techlawfirm.net
+10:05:53	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/removal-and-deportation/your-rights (ftechlawfirm.netmigrate.tech/)
+techlawfirm.nettechlawfirm.net
+10:05:53	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/removal-and-deportation/how-to-behave-with-ice-agents (from https://techlawfirm.net/)
+techlawfirm.nettechlawfirm.net
+10:05:53	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/removal-and-deportation/for-friends-and-family (from httpstechlawfirm.netech/)
+techlawfirm.nettechlawfirm.net
+10:05:53	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/removal-and-deportation/getting-an-attorney (from techlawfirm.netate.tech/)
+techlawfirm.nettechlawfirm.net
+10:06:04	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/a (from https://connect.facebook.net/en_US/fbevents.js)techlawfirm.net
+techlawfirm.nettechlawfirm.net
+10:06:04	Error: 	"Not Found" (404) at link https://techlawfirm.net/ru/POST (from https://connect.facebook.net/en_US/ftechlawfirm.net
+techlawfirm.nettechlawfirm.net
+10:06:04	Warning: 	Found for https://immigrate.tech/schema.org/
+
+10:06:04	Warning: 	File has moved from https://immigrate.tech/schema.org/ to https://immigrate.tech/ru/schema.org
+
+10:06:05	Error: 	"Not Found" (404) at link https://immigrate.tech/ru/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+
+10:06:05	Error: 	"Not Found" (404) at link https://immigrate.tech/ru/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+10:06:19	Error: 	"Not Found" (404) at link https://immigrate.tech/es/removal-and-deportation (from https://immigrate.tech/es)
+
+10:06:19	Error: 	"Not Found" (404) at link https://immigrate.tech/es/removal-and-deportation/your-rights (from https://immigrate.tech/es)
+
+10:06:19	Error: 	"Not Found" (404) at link https://immigrate.tech/es/removal-and-deportation/how-to-behave-with-ice-agents (from https://immigrate.tech/es)
+
+10:06:19	Error: 	"Not Found" (404) at link https://immigrate.tech/es/removal-and-deportation/for-friends-and-family (from https://immigrate.tech/es)
+
+10:06:19	Error: 	"Not Found" (404) at link https://immigrate.tech/es/removal-and-deportation/getting-an-attorney (from https://immigrate.tech/es)
+
+10:06:29	Error: 	"Not Found" (404) at link https://immigrate.tech/zh/removal-and-deportation (from https://immigrate.tech/zh)
+
+10:06:29	Error: 	"Not Found" (404) at link https://immigrate.tech/zh/removal-and-deportation/your-rights (from https://immigrate.tech/zh)
+
+10:06:29	Error: 	"Not Found" (404) at link https://immigrate.tech/zh/removal-and-deportation/how-to-behave-with-ice-agents (from https://immigrate.tech/zh)
+
+10:06:29	Error: 	"Not Found" (404) at link https://immigrate.tech/zh/removal-and-deportation/for-friends-and-family (from https://immigrate.tech/zh)
+
+10:06:29	Error: 	"Not Found" (404) at link https://immigrate.tech/zh/removal-and-deportation/getting-an-attorney (from https://immigrate.tech/zh)
+
+10:06:33	Error: 	"Not Found" (404) at link https://immigrate.tech/img/services/citizenship/icon10.png (from https://immigrate.tech/ru/u-s-visas/visa-for-foreign-investors)
+
+10:06:37	Error: 	"Not Found" (404) at link https://immigrate.tech/ru/schema.org (from https://immigrate.tech/schema.org/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 29 seconds : 207 links scanned, 183 files written (6236979 bytes overall) [2960991 bytes received at 19872 bytes/sec], 5589158 bytes transferred using HTTP compression in 141 files, ratio 26%, 21.1 requests per connection
+
+(22 errors, 2 warnings, 0 messages)
+
